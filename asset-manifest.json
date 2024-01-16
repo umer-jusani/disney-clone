@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/disney-clone/static/css/main.2db92964.css",
-    "main.js": "/disney-clone/static/js/main.c2ca069e.js",
+    "main.js": "/disney-clone/static/js/main.6b922815.js",
     "static/media/1564676296-national-geographic.mp4": "/disney-clone/static/media/1564676296-national-geographic.bf1b675d8d0beb6c25bc.mp4",
     "static/media/1608229455-star-wars.mp4": "/disney-clone/static/media/1608229455-star-wars.90fa9f5ae993d23505b5.mp4",
     "static/media/login-background.jpg": "/disney-clone/static/media/login-background.05b1a1b3088cbb458939.jpg",
@@ -31,10 +31,10 @@
     "static/media/original-icon.svg": "/disney-clone/static/media/original-icon.d7752d89e5a5d2b6276338bea45f413b.svg",
     "static/media/home-icon.svg": "/disney-clone/static/media/home-icon.b6a11f9b406f2f13cd82608a276428e5.svg",
     "main.2db92964.css.map": "/disney-clone/static/css/main.2db92964.css.map",
-    "main.c2ca069e.js.map": "/disney-clone/static/js/main.c2ca069e.js.map"
+    "main.6b922815.js.map": "/disney-clone/static/js/main.6b922815.js.map"
   },
   "entrypoints": [
     "static/css/main.2db92964.css",
-    "static/js/main.c2ca069e.js"
+    "static/js/main.6b922815.js"
   ]
 }
